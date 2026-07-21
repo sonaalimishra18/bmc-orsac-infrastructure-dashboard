@@ -1,19 +1,48 @@
-# Bhubaneswar Urban Infrastructure Dashboard
+# BMC ORSAC Infrastructure Dashboard
 
-Power BI dashboard integrating multi-source municipal GIS data to visualize infrastructure coverage and gaps across 67 wards in Bhubaneswar.
+## Project Overview
+A Power BI dashboard developed to visualize municipal infrastructure data for Bhubaneswar using GIS datasets.
 
-## Problem
-Municipal authorities lacked a unified view of infrastructure distribution (roads, drainage, public assets) across the city, making resource allocation decisions harder to prioritize.
+## Problem Statement
+Government departments require easy-to-understand visual reports for infrastructure planning and resource allocation.
 
-## Approach
-- Integrated multi-source municipal datasets using SQL and GeoPandas for cleaning and preparation
-- Built KPI cards and heatmaps in Power BI to surface underserved zones
-- Automated the data cleaning pipeline to keep reporting accurate as source data updated
+## Objectives
+- Visualize infrastructure data
+- Support decision-making
+- Improve reporting
+- Monitor municipal assets
 
 ## Tools Used
-Power BI, SQL, QGIS, GeoPandas, Python
+- Power BI
+- SQL
+- ArcGIS
+- QGIS
+- Excel
 
-## Outcome
-- Enabled data-driven resource allocation across 67 wards
-- Gave municipal stakeholders a visual, self-serve way to identify underserved areas
-- Improved reporting accuracy through automated cleaning vs. manual spreadsheet work
+## Dashboard Features
+- KPI Cards
+- Maps
+- Charts
+- Filters
+- Infrastructure Analysis
+
+## Workflow
+1. Collect GIS data
+2. Clean the dataset
+3. Load into Power BI
+4. Create dashboards
+5. Publish reports
+
+## Results
+- Improved reporting
+- Better visualization
+- Faster decision-making
+
+## Future Scope
+- Real-time dashboard
+- Live GIS integration
+- Predictive analytics
+
+## Author
+Sonali Mishra
+GIS Analyst | Power BI | SQL | ArcGIS
